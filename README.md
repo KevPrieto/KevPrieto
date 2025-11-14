@@ -1,163 +1,133 @@
-# 👋 Hi, I'm **Kevin Prieto Serrano**
+# Kevin Prieto Serrano
 
-I enjoy building systems from scratch, structuring software cleanly, and solving problems with code.  
-Backend developer in progress, focused on Java, clean architecture, testing, automation, and AI-assisted development.
+**Java Developer · Backend Engineering · Data Automation · Secure Coding · AI-Assisted Development**
 
-### **Java Developer | Backend Engineering | Data Automation | Cybersecurity Mindset**
+I enjoy designing systems from scratch, understanding how they work, and improving them through clean architecture, testing and automation.  
+Right now I’m focused on backend development with Java 17 and building real projects that look and behave like production systems.
 
 ---
 
 ## 🧩 About Me
 
-- Focused on **backend engineering with Java 17**  
-- Learning **Spring Boot**, microservices, CI/CD, and cloud fundamentals  
-- Strong foundation in clean architecture, OOP, concurrency, and testing  
-- Cybersecurity mindset: secure coding, vulnerability analysis, application hardening  
-- I use **GitHub Copilot & ChatGPT** daily as pair-programmers  
-- Building long-term software projects like ** RecallHub ** and **Sueño**  
-- Open to **remote** or **hybrid** technical roles  
-- Enjoy debugging with matcha and late-night problem solving  
+- Focused on backend engineering with **Java 17**
+- Learning **Spring Boot**, microservices, CI/CD and cloud fundamentals
+- Strong foundation in OOP, clean architecture, concurrency and unit testing
+- Cybersecurity mindset: secure coding, vulnerability analysis, application hardening
+- Use **GitHub Copilot** and **ChatGPT** daily as “pair programmers”
+- Building long-term projects like **Flight Fare Optimizer**, **Booking Management System**, **RecallHub** and **Sueño**
+- Open to **remote** or **hybrid** technical roles
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🛫 Flight Fare Optimizer
-JavaFX desktop app that loads flights from JSON, filters results, ranks by price, and exports clean PDF reports.
+### 🛫 Flight Fare Optimizer (Java 17, JavaFX)
 
-**Tech:** Java 17 · JavaFX · FXML · Jackson · Streams · iTextPDF · Maven · JUnit 5
+Desktop app that loads flight data from JSON, filters results, ranks by price and exports PDF reports.
 
-**Highlights**
-- Classpath-safe JSON loading  
-- Cheapest-flight detection with Java Streams  
-- UTF-8 & €-safe PDF export with embedded fonts  
-- Bundled with `jpackage`  
-- JUnit-tested business logic  
+- Loads JSON from the classpath in a safe, portable way  
+- Filters by origin, destination and date  
+- Finds the cheapest flight using Java Streams  
+- Generates PDF reports with embedded fonts for correct € and UTF-8 rendering  
+- Packaged as a Windows installer using `jpackage`  
+- Core pricing logic covered by JUnit 5 tests  
 
-👉 https://github.com/KevPrieto/Flight-Fare-Optimizer
-
----
-
-## 🧾 Booking Management System
-Backend Java engine with concurrency control and layered architecture.
-
-**Tech:** Java 17 · REST-style controllers · Jackson · SLF4J · Streams · JUnit 5
-
-**Highlights**
-- CRUD for bookings, customers, rooms  
-- Thread-safe reservations (synchronized + defensive copies)  
-- Overlapping-date validation  
-- Layered architecture (Controller → Service → Repository → Model)  
-- Lifecycle logging with SLF4J  
-- TDD approach  
-
-https://github.com/KevPrieto/booking-management-system
+> Repository: *(add link here)*
 
 ---
 
-## 🧠 RecallHub (WIP)
-Full-stack Java system to store, index, and search personal content.
+### 🧾 Booking Management System (Java 17 backend)
 
-**Highlights**
-- Designed with clean architecture  
-- Modular: domain layer → application layer  
-- Git discipline (daily sync with `pre-main`)  
-- Vision: a personal search + storage engine in Java  
+Backend simulation of a booking engine with layered architecture and concurrency control.
 
-👉 https://github.com/KevPrieto/RecallHub
+- CRUD operations for bookings, customers and rooms/flights  
+- Thread-safe reservation logic using synchronized methods and defensive copies  
+- Date-overlap validation and exception-driven error handling  
+- Clean layered design (Controller → Service → Repository → Model)  
+- Logging of lifecycle events using SLF4J  
+- Business rules covered by JUnit 5 tests and TDD mindset  
 
----
-
-## 🎮 Moción – Unity/C#
-Unity/C# project focused on modular VFX systems and reusable prefabs.
-
-**Highlights**
-- Reusable systems and automated test scenes  
-- Clean OOP scripting  
-- GitLab merge request workflow  
-- AI-assisted debugging and refactoring  
+> Repository: *(add link here)*
 
 ---
 
-## 💡 Sueño — Long-Term Software Vision
-A personal mission: build a scalable digital product from scratch with clean code, automation, and AI-powered development workflows.
+### 🧠 RecallHub (Work in Progress)
+
+Personal knowledge engine to store, index and search saved content.
+
+- Designed from scratch with clean architecture principles  
+- Clear separation between domain and application layers  
+- Git discipline with structured commits and regular sync  
+- Roadmap includes Spring Boot API and advanced search features  
+
+> Repository: *(add link here when public)*
 
 ---
 
-# 🛠️ Skills & Tools
+### 🎮 Moción (Unity / C#)
 
-### 🚀 Languages & Frameworks
+Unity project focused on modular VFX systems and reusable prefabs.
 
-![Java](https://img.shields.io/badge/Java_17-black?style=flat&logo=openjdk&logoColor=black)
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-black?style=flat&logo=gnubash&logoColor=black)
-![C#](https://img.shields.io/badge/C_Sharp-black?style=flat&logo=csharp&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-black?style=flat&logo=swift&logoColor=black)
-![JavaFX](https://img.shields.io/badge/JavaFX-black?style=flat&logo=coffeescript&logoColor=black)
-![JUnit 5](https://img.shields.io/badge/JUnit_5-black?style=flat&logo=junit5&logoColor=black)
+- Designed reusable visual systems and automated test scenes  
+- Implemented clean OOP scripting for dynamic interactions  
+- Worked with GitLab merge requests and basic CI  
+- Used AI-assisted tools to speed up debugging and refactoring  
 
 ---
 
-### ⚙️ Tools & DevOps
+### 💡 Sueño – Long-Term Vision
 
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=black)
-![GitLab](https://img.shields.io/badge/GitLab-black?style=flat&logo=gitlab&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=black)
-![Jenkins](https://img.shields.io/bbadge/Jenkins-black?style=flat&logo=jenkins&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-black?style=flat&logo=apachemaven&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat&logo=powershell&logoColor=black)
-![CMD](https://img.shields.io/badge/CMD-black?style=flat&logo=windows-terminal&logoColor=black)
-![Jackson](https://img.shields.io/badge/Jackson-black?style=flat&logo=json&logoColor=black)
-![SLF4J](https://img.shields.io/badge/SLF4J-black?style=flat&logo=spring&logoColor=black)
-![iTextPDF](https://img.shields.io/badge/iTextPDF-black?style=flat&logo=adobe-acrobat-reader&logoColor=black)
+Personal mission to build a scalable digital product using clean code, automation, secure design and AI-powered development workflows.
 
 ---
 
-### 🧪 Development Practices
+## 🛠️ Skills & Tooling
 
-![OOP](https://img.shields.io/badge/OOP-black?style=flat&logo=java&logoColor=black)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-black?style=flat)
-![REST APIs](https://img.shields.io/badge/REST_APIs-black?style=flat&logo=api&logoColor=black)
-![Clean Code](https://img.shields.io/badge/Clean_Code-black?style=flat)
-![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat&logo=githubactions&logoColor=black)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-black?style=flat)
-![Agile](https://img.shields.io/badge/Agile-black?style=flat&logo=jira&logoColor=black)
-![Concurrency](https://img.shields.io/badge/Concurrency-black?style=flat)
+### Backend & Programming
+- Java 17  
+- Python  
+- SQL  
+- Bash  
+- C# (Unity)  
+- Kotlin (learning)  
+- Swift (learning)  
+- JavaFX  
+- JUnit 5  
 
----
+### DevOps & Tools
+- Git, GitHub, GitLab  
+- Docker  
+- Jenkins  
+- Maven  
+- PowerShell, CMD  
+- Jackson (JSON)  
+- SLF4J  
+- iTextPDF  
 
-### 📊 Data & Analytics
+### Architecture & Practices
+- Clean Architecture, SOLID, Design Patterns  
+- REST APIs  
+- Concurrency and multithreading  
+- CI/CD pipelines  
+- Unit Testing  
+- Agile / Scrum  
 
-![Power BI](https://img.shields.io/badge/Power_BI-black?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-black?style=flat)
-![Power Query](https://img.shields.io/badge/Power_Query-black?style=flat&logo=microsoft-excel&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL-black?style=flat)
-![SQL Modeling](https://img.shields.io/badge/SQL_Modeling-black?style=flat)
-![Data Automation](https://img.shields.io/badge/Data_Automation-black?style=flat)
-![Excel](https://img.shields.io/badge/Excel_Advanced-black?style=flat&logo=microsoft-excel&logoColor=black)
+### Data & Analytics
+- Power BI, DAX, ETL, Power Query  
+- Data automation  
+- Excel advanced reporting  
 
----
+### Cybersecurity
+- Secure coding practices  
+- Application hardening  
+- Vulnerability analysis  
+- Networking fundamentals  
+- Pentesting basics  
 
-### 🔐 Cybersecurity & Networking
-
-![Secure Coding](https://img.shields.io/badge/Secure_Coding-black?style=flat)
-![Pentesting](https://img.shields.io/badge/Pentesting-black?style=flat)
-![Networking](https://img.shields.io/badge/Networking-black?style=flat)
-![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability_Analysis-black?style=flat)
-![Application Hardening](https://img.shields.io/badge/Application_Hardening-black?style=flat)
-
----
-
-### 🤖 AI-Assisted Development
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-black?style=flat&logo=githubcopilot&logoColor=black)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=flat&logo=openai&logoColor=black)
-![AI Debugging](https://img.shields.io/badge/AI_Debugging-black?style=flat)
-![AI Refactoring](https://img.shields.io/badge/AI_Refactoring-black?style=flat)
-![AI Documentation](https://img.shields.io/badge/AI_Documentation-black?style=flat)
+### AI-Assisted Development
+- GitHub Copilot  
+- ChatGPT  
+- AI-assisted debugging, refactoring and documentation  
 
 ---
 
@@ -168,16 +138,14 @@ A personal mission: build a scalable digital product from scratch with clean cod
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/kevin-prieto-developer)  
-- [GitHub](https://github.com/KevPrieto)  
-- 📧 **kgps1003@gmail.com**
+- LinkedIn: https://linkedin.com/in/kevin-prieto-developer  
+- GitHub: https://github.com/KevPrieto  
+- Email: **kgps1003@gmail.com**
 
 ---
 
-## 🎯 Final Note
-
-I like building things, understanding how they work, and improving them through clean code, automation, and continuous learning.  
-If you're working on something interesting — or hiring for backend/data/cybersecurity roles — feel free to reach out.
+I like building things, understanding how they work, and improving them through clean code, automation and iteration.  
+If you’re working on something interesting — or hiring for backend / data / security-aware roles — feel free to reach out.
 
