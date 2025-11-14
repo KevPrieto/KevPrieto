@@ -15,7 +15,6 @@ Backend dev in progress, obsessed with clean architecture, testing, automation, 
 - 🤖 Daily user of **GitHub Copilot** + ChatGPT as pair-programmers  
 - 🗂️ Projects built from scratch: Flight Fare Optimizer, Booking Engine, RecallHub  
 - 🎯 Open to **remote** or **hybrid** roles in Europe  
-- 🇻🇪 Venezuela → 🇪🇸 Madrid → soon 🇧🇷 Brazil  
 - 🍵 Matcha is my debugging fuel  
 
 ---
@@ -32,9 +31,7 @@ Backend dev in progress, obsessed with clean architecture, testing, automation, 
 - Cheapest-flight detection using Streams  
 - UTF-8 & €-safe PDF export with embedded fonts  
 - Packaged with `jpackage`  
-- JUnit-tested business logic  
-
-👉 *(Add repo link here)*
+- JUnit-tested business logic.
 
 ---
 
@@ -51,8 +48,6 @@ A **Java 17 backend engine** with concurrency control and layered architecture.
 - SLF4J lifecycle logging  
 - TDD mindset  
 
-👉 *(Add repo link here)*
-
 ---
 
 ## 🧠 RecallHub (WIP)
@@ -63,8 +58,6 @@ Full-stack Java project to save, index, and search personal content.
 - Domain + application layers  
 - Git discipline (daily sync with `pre-main`)  
 - Vision: personal “knowledge engine” built in Java  
-
-👉 *(Add link when public)*
 
 ---
 
