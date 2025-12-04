@@ -12,10 +12,9 @@ Backend dev in progress, obsessed with clean architecture, testing, automation, 
 - 🔭 Focused on **backend engineering** with Java 17  
 - 🧠 Learning **Spring Boot**, microservices, CI/CD, cloud  
 - 🔒 Secure coding mindset (cybersecurity + defensive programming)  
-- 🤖 Daily user of **GitHub Copilot** + ChatGPT as pair-programmers  
 - 🗂️ Projects built from scratch: Flight Fare Optimizer, Booking Engine, RecallHub  
 - 🎯 Open to **remote** or **hybrid** roles in Europe  
-- 🍵 Matcha is my debugging fuel  
+- 🍵 Matcha and Yerba Mate is my debugging fuel  
 
 ---
 
@@ -78,6 +77,12 @@ Unity/C# project focused on modular VFX systems, scripting, and reusable prefabs
 
 A long-term mission to build a scalable, low-cost digital product from scratch —  
 powered by clean architecture, backend engineering, automation, and AI-assisted development.
+
+
+# NYRA — Productivity, reimagined.
+### Turn ideas into a roadmap. Instantly.
+
+NYRA is a minimalist AI-powered tool that transforms vague ideas into clear, actionable roadmaps — helping you think better, plan faster, and build with direction.
 
 ---
 
