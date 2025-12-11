@@ -49,15 +49,6 @@ A **Java 17 backend engine** with concurrency control and layered architecture.
 
 ---
 
-## 🧠 RecallHub (WIP)
-Full-stack Java project to save, index, and search personal content.
-
-**Highlights**
-- Clean architecture from scratch  
-- Domain + application layers  
-- Git discipline (daily sync with `pre-main`)  
-- Vision: personal “knowledge engine” built in Java  
-
 ---
 
 ## 🎮 Moción – Unity/C#
@@ -73,18 +64,14 @@ Unity/C# project focused on modular VFX systems, scripting, and reusable prefabs
 
 ---
 
-## 💡 Sueño — My Long-Term Software Vision
+## 💡 EYLA
 
 A long-term mission to build a scalable, low-cost digital product from scratch —  
 powered by clean architecture, backend engineering, automation, and AI-assisted development.
+EYLA is a minimalist AI-powered tool that transforms raw ideas into structured, actionable roadmaps.
+I’m building it with clean architecture, automation, predictable backend design, and lightweight AI integration. The purpose is simple: help users move from thought to execution with clarity and minimal friction.
+to turn ideas into a roadmap. Instantly.
 
-
-# NYRA — Productivity, reimagined.
-### Turn ideas into a roadmap. Instantly.
-
-NYRA is a minimalist AI-powered tool that transforms vague ideas into clear, actionable roadmaps — helping you think better, plan faster, and build with direction.
-
----
 
 # 🛠️ Skills & Tools
 
