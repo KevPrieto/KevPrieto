@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Kevin Prieto Serrano**
+# 👋 Hi, I'm **Kevin Prieto**
 
 Always excited to build, learn, break things, fix them, and keep going.  
 Backend dev in progress, obsessed with clean architecture, testing, automation, and reliable systems.
