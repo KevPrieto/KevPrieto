@@ -63,8 +63,8 @@ A **Java 17 backend engine** with concurrency control and layered architecture.
 
 ---
 
-## 🎮 Moción – Unity/C#
-Unity/C# project focused on modular VFX systems, scripting, and reusable prefabs.
+## 🎮 Moción – Unity/C# ---- Working as part of the development team
+Unity/C#  focused on modular VFX systems, scripting, and reusable prefabs.
 
 **Tech:** Unity · C# · GitLab · OOP · Scene testing
 
@@ -72,7 +72,11 @@ Unity/C# project focused on modular VFX systems, scripting, and reusable prefabs
 - Reusable prefab systems  
 - Automated test scenes  
 - GitLab MR workflow  
-- AI-assisted debugging and refactoring  
+- AI-assisted debugging and refactoring
+
+- https://mocionplay.app/
+
+  <img width="1792" height="546" alt="image" src="https://github.com/user-attachments/assets/de2ff628-6771-4008-b75c-2f7e4bb2452d" />
 
 ---
 
