@@ -17,8 +17,20 @@ Backend dev in progress, obsessed with clean architecture, testing, automation, 
 - 🍵 Matcha and Yerba Mate is my debugging fuel  
 
 ---
+<img width="1536" height="1024" alt="BannerLinkedIn" src="https://github.com/user-attachments/assets/97e26edc-d244-4578-bff8-ef023b98fbe0" />
 
 # 🚀 Featured Projects
+
+## 💡 EYLA
+
+A long-term mission to build a scalable, low-cost digital product from scratch —  
+powered by clean architecture, backend engineering, automation, and AI-assisted development.
+EYLA is a minimalist AI-powered tool that transforms raw ideas into structured, actionable roadmaps.
+I’m building it with clean architecture, automation, predictable backend design, and lightweight AI integration. The purpose is simple: help users move from thought to execution with clarity and minimal friction.
+to turn ideas into a roadmap. Instantly.
+
+
+<img width="1536" height="1024" alt="eylalogo2" src="https://github.com/user-attachments/assets/fa5750af-fed6-4e4d-8402-42dda5714d43" />
 
 ## 🛫 Flight Fare Optimizer
 **JavaFX desktop app** that loads flights from JSON, applies filters, ranks them by price, and exports clean PDF reports.
@@ -64,13 +76,7 @@ Unity/C# project focused on modular VFX systems, scripting, and reusable prefabs
 
 ---
 
-## 💡 EYLA
 
-A long-term mission to build a scalable, low-cost digital product from scratch —  
-powered by clean architecture, backend engineering, automation, and AI-assisted development.
-EYLA is a minimalist AI-powered tool that transforms raw ideas into structured, actionable roadmaps.
-I’m building it with clean architecture, automation, predictable backend design, and lightweight AI integration. The purpose is simple: help users move from thought to execution with clarity and minimal friction.
-to turn ideas into a roadmap. Instantly.
 
 
 # 🛠️ Skills & Tools
