@@ -1,13 +1,13 @@
-# 👋 Hi, I'm **Kevin Prieto**
+# 👋 Welcome Internet Traveler! I'm Kevin, let me tell you who I am:
 
-Always excited to build, learn, break things, fix them, and keep going.  
-Backend dev in progress, obsessed with clean architecture, testing, automation, and reliable systems.
+I am always excited to build, learn, break things, fix them, and keep going.  
+basically a Backend dev in progress, obsessed with clean architecture, testing, automation, and reliable systems.
 
 ### **Java Developer | Backend Engineer | Data & Cybersecurity Background |**
 
 ---
 
-## 🧩 About Me
+## 🧩 More About Me
 
 - 🔭 Focused on **backend engineering** with Java 17  
 - 🧠 Learning **Spring Boot**, microservices, CI/CD, cloud  
