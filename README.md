@@ -1,4 +1,4 @@
-# 👋 Welcome Internet Traveler! I'm Kevin, let me tell you who I am:
+# 👋 Welcome Internet Traveler: I'm Kevin, nice to meet you!
 
 I am always excited to build, learn, break things, fix them, and keep going.  
 basically a Backend dev in progress, obsessed with clean architecture, testing, automation, and reliable systems.
