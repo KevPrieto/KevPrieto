@@ -3,14 +3,14 @@
 I am always excited to build, learn, break things, fix them, and keep going.  
 basically a Backend dev in progress, obsessed with clean architecture, testing, automation, and reliable systems.
 
-### **Java Developer | Backend Engineer | Data & Cybersecurity Background |**
+### **Software Developer | Backend Engineer - Java | Mobile Developer (React Native + Expo + TS) | Data & Cybersecurity Background |**
 
 ---
 
 ## 🧩 More About Me
 
 - 🔭 Focused on **backend engineering** with Java 17  
-- 🧠 Learning **Spring Boot**, microservices, CI/CD, cloud  
+- 🧠 Learning **Spring Boot**, microservices, CI/CD, cloud
 - 🔒 Secure coding mindset (cybersecurity + defensive programming)  
 - 🗂️ Projects built from scratch: Flight Fare Optimizer, Booking Engine, RecallHub  
 - 🎯 Open to **remote** or **hybrid** roles in Europe  
