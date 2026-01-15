@@ -3,7 +3,7 @@
 I am always excited to build, learn, break things, fix them, and keep going.  
 basically a Backend dev in progress, obsessed with clean architecture, testing, automation, and reliable systems.
 
-### **Software Developer | Backend Engineer - Java | Mobile Developer (React Native + Expo + TS) | Data & Cybersecurity Background |**
+### **Software Developer | Backend Engineer - Java, Springboot | Databases | Mobile Developer (React Native + Expo + TS) | Data & Cybersecurity Background |**
 
 ---
 
